@@ -1,0 +1,10 @@
+mmcv==1.6.0
+matplotlib
+argparse
+lpips
+plyfile
+imageio-ffmpeg
+imageio
+open3d
+torchmetrics
+docopt
