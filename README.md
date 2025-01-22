@@ -2,7 +2,7 @@
 
 
 Yifeng Yang*, Hengyu Liu*, Chenxin Li†, Yining Sun, Wuyang Li, Yifan Liu, Yiyang Lin, Yixuan Yuan, Nanyang Ye (* indicates equal contribution, † indicates the project lead)<br>
-| [Full Paper](https://arxiv.org/) | [code](https://github.com/zxk1212/ConcealGS) <br>
+| [Full Paper](https://arxiv.org/abs/2501.03605) | [code](https://github.com/zxk1212/ConcealGS) <br>
 ![Teaser image](assets/method.jpg) 
 
 
