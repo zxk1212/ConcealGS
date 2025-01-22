@@ -14,10 +14,10 @@ We evaluate ConcealGS in various potential application scenarios, and experiment
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@article{yang2025concelgs,
-  title={ConcealGS: Conceal Implicit Information in 3D Gaussian Splatting},
+    <pre><code>@article{yang2025concealgs,
+  title={ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting},
   author={Yang, Yifeng and Liu, Hengyu and Li, Chenxin and Sun, Yining and Li, Wuyang and Liu, Yifan and Lin, Yiyang and Yuan, Yixuan and Ye, Nanyang},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2501.03605},
   year={2025}
 }</code></pre>
   </div>
